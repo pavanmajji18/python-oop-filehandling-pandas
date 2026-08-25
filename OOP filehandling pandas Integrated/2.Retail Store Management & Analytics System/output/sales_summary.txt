@@ -1,0 +1,21 @@
+==================================================
+           RETAIL STORE SALES REPORT
+==================================================
+Total Transactions: 50
+Total Units Sold: 86
+Total Revenue: ₹756,610.00
+Average Transaction Value: ₹15,132.20
+
+Best Selling Product (Units): Rich Dad Poor Dad
+Lowest Selling Product (Units): Gaming Mouse
+Highest Revenue Category: Electronics
+Highest Revenue City: Bangalore
+
+--------------------------------------------------
+Product Catalog Insights:
+- Average Catalog Price: ₹10,440.67
+- Max Catalog Price: ₹75,000.00
+- Min Catalog Price: ₹400.00
+- Items with Stock < 10: 10
+- Items Priced Above Average: 6
+==================================================

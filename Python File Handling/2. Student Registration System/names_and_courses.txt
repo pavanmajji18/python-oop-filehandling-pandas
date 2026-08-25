@@ -1,0 +1,12 @@
+Name,Course
+pavan,Python
+Rahul,SQL
+Priya,Machine Learning
+Amit,Web Development
+Sneha,Cloud Computing
+Vikas,DevOps
+Ananya,Cybersecurity
+Rohan,Data Analytics
+Kavita,Python
+Manish,Data Science
+Deepak,AI Engineering
