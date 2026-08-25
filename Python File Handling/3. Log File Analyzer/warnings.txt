@@ -1,0 +1,7 @@
+WARNING - Disk space running below 20%
+WARNING - High memory allocation detected (82%)
+WARNING - API response latency exceeded 500ms
+WARNING - Rate limit approaching for IP 192.168.1.55
+WARNING - CPU temperature elevated
+WARNING - SSL certificate expires in 7 days
+WARNING - Unoptimized SQL query detected

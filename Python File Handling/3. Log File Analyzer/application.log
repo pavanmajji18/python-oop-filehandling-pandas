@@ -1,0 +1,30 @@
+INFO - Application initialized
+INFO - Database connection pool created
+WARNING - Disk space running below 20%
+INFO - User 'admin' logged in
+ERROR - Database connection timeout
+INFO - Retrying database connection...
+INFO - Database connection re-established
+WARNING - High memory allocation detected (82%)
+ERROR - Payment gateway unreachable
+INFO - Incoming API request: /api/v1/orders
+WARNING - API response latency exceeded 500ms
+INFO - Cache hit ratio: 94%
+ERROR - Failed to send confirmation email to user #104
+INFO - Background worker job #42 finished
+INFO - User 'sudh' logged in
+WARNING - Rate limit approaching for IP 192.168.1.55
+ERROR - Invalid JWT token supplied
+INFO - User session terminated
+INFO - Health check status: OK
+WARNING - CPU temperature elevated
+ERROR - File write failed: permission denied on /var/log/app.lock
+INFO - Garbage collector executed
+INFO - Microservice 'auth' responding normally
+ERROR - Redis cluster node 2 unreachable
+WARNING - SSL certificate expires in 7 days
+INFO - Backup routine started
+INFO - Backup routine completed successfully
+ERROR - NullPointer exception encountered in worker thread #3
+WARNING - Unoptimized SQL query detected
+INFO - Server shutdown signal received

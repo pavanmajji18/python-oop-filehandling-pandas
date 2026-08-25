@@ -1,0 +1,12 @@
+Note 1: Review Python file handling basics.
+Note 2: Practice open(), read(), write(), and close().
+Note 3: Understand difference between read(), readline(), and readlines().
+Note 4: Remember to use context managers (with open).
+Note 5: File modes: 'r' is read-only, 'w' truncates/overwrites.
+Note 6: File mode 'a' appends to the end without truncating.
+Note 7: Always handle newlines explicitly when writing lines.
+Note 8: Relative vs absolute file paths.
+Note 9: Encoding defaults usually to UTF-8.
+Note 10: Clean up file descriptors to prevent leaks.
+Note 11: Added using append ('a') mode.
+Note 12: Context managers automatically close files upon exit.
