@@ -1,0 +1,95 @@
+customer_id,name,age,city,email,purchase_amount,rating
+1001,Deepak,46,Hyderabad,user_1@example.com,3872.0,5.0
+1002,Deepak,36,Hyderabad,user_2@example.com,4526.0,3.0
+1003,Tanvi,53,Hyderabad,user_3@example.com,230.0,5.0
+1004,,19,Hyderabad,user_4@example.com,2533.0,4.0
+1005,,50,,user_5@example.com,3485.0,5.0
+1006,,61,Mumbai,user_6@example.com,574.0,3.0
+1007,Deepak,59,Hyderabad,user_7@example.com,2847.0,5.0
+1008,Sneha Patel,64,Chennai,user_8@example.com,4758.0,4.0
+1009,Deepak,20,Pune,user_9@example.com,3990.0,5.0
+1010,Aarav Sharma,42,Delhi,user_10@example.com,2535.0,1.0
+1011,Rahul,31,Delhi,user_11@example.com,2141.0,1.0
+1012,Riya Verma,19,,user_12@example.com,0.0,4.0
+1013,Deepak,24,,user_13@example.com,2656.0,3.0
+1014,Sneha Patel,34,,user_14@example.com,1685.0,4.0
+1016,,35,Delhi,user_16@example.com,261.0,2.0
+1017,Sneha Patel,53,Chennai,user_17@example.com,3442.0,5.0
+1018,Deepak,57,Pune,user_18@example.com,437.0,5.0
+1019,Tanvi,43,Mumbai,user_19@example.com,4959.0,4.0
+1020,Rahul,42,Mumbai,user_20@example.com,2162.0,5.0
+1021,Aarav Sharma,42,Hyderabad,user_21@example.com,2668.0,1.0
+1022,Rahul,25,Hyderabad,user_22@example.com,491.0,3.0
+1023,Kavya,50,Bengaluru,user_23@example.com,3661.0,2.0
+1024,Aarav Sharma,45,Hyderabad,user_24@example.com,0.0,1.0
+1025,Tanvi,29,Delhi,user_25@example.com,3204.0,5.0
+1026,Tanvi,54,Bengaluru,user_26@example.com,2831.0,5.0
+1027,Kavya,52,Mumbai,user_27@example.com,2790.0,1.0
+1028,,43,Hyderabad,user_28@example.com,4593.0,3.0
+1029,Aarav Sharma,32,Hyderabad,user_29@example.com,1584.0,3.0
+1031,Tanvi,21,Chennai,user_31@example.com,1778.0,3.0
+1032,,53,Pune,user_32@example.com,1822.0,3.0
+1033,Sneha Patel,45,Delhi,user_33@example.com,2829.0,5.0
+1034,Sneha Patel,23,,user_34@example.com,3727.0,4.0
+1035,Sneha Patel,28,Hyderabad,user_35@example.com,1629.0,4.0
+1036,Aarav Sharma,56,Chennai,user_36@example.com,0.0,1.0
+1037,Aarav Sharma,44,Chennai,user_37@example.com,2775.0,5.0
+1038,Aarav Sharma,20,Hyderabad,user_38@example.com,809.0,3.0
+1039,Aarav Sharma,54,Mumbai,user_39@example.com,4879.0,3.0
+1040,Sneha Patel,42,Hyderabad,user_40@example.com,1595.0,1.0
+1041,Rahul,29,Chennai,user_41@example.com,3557.0,3.0
+1042,Aarav Sharma,54,Mumbai,user_42@example.com,3099.0,1.0
+1043,Kavya,19,Delhi,user_43@example.com,954.0,5.0
+1044,Tanvi,50,Mumbai,user_44@example.com,3574.0,5.0
+1046,Deepak,28,Hyderabad,user_46@example.com,4318.0,1.0
+1047,Deepak,55,Hyderabad,user_47@example.com,3031.0,2.0
+1048,Sneha Patel,39,Bengaluru,user_48@example.com,0.0,1.0
+1049,Aarav Sharma,23,Hyderabad,user_49@example.com,1894.0,4.0
+1050,Rahul,42,,user_50@example.com,1469.0,3.0
+1051,Deepak,36,,user_51@example.com,3011.0,4.0
+1052,Aarav Sharma,50,Hyderabad,user_52@example.com,2485.0,1.0
+1053,Kavya,45,Mumbai,user_53@example.com,4161.0,2.0
+1054,Kavya,24,,user_54@example.com,723.0,1.0
+1055,Rahul,19,Mumbai,user_55@example.com,3823.0,5.0
+1056,,49,Bengaluru,user_56@example.com,2156.0,1.0
+1057,Kavya,36,Hyderabad,user_57@example.com,2355.0,3.0
+1058,Rahul,41,Chennai,user_58@example.com,3291.0,1.0
+1059,Tanvi,28,Mumbai,user_59@example.com,1545.0,4.0
+1061,Aarav Sharma,52,Mumbai,user_61@example.com,3061.0,5.0
+1062,Riya Verma,19,Chennai,user_62@example.com,3334.0,5.0
+1063,Aarav Sharma,53,Mumbai,user_63@example.com,4593.0,5.0
+1064,Tanvi,37,Hyderabad,user_64@example.com,1318.0,1.0
+1065,Tanvi,50,Hyderabad,user_65@example.com,4655.0,3.0
+1066,Kavya,39,Hyderabad,user_66@example.com,1145.0,5.0
+1067,Sneha Patel,55,Chennai,user_67@example.com,3536.0,3.0
+1068,Sneha Patel,25,Bengaluru,user_68@example.com,325.0,5.0
+1069,Sneha Patel,50,,user_69@example.com,1059.0,1.0
+1070,,42,Pune,user_70@example.com,915.0,3.0
+1071,Rahul,52,Hyderabad,user_71@example.com,3220.0,1.0
+1072,Rahul,45,Chennai,user_72@example.com,0.0,5.0
+1073,Sneha Patel,23,Bengaluru,user_73@example.com,1160.0,5.0
+1074,Aarav Sharma,63,Pune,user_74@example.com,706.0,3.0
+1076,,49,Hyderabad,user_76@example.com,1284.0,3.0
+1077,Tanvi,35,Mumbai,user_77@example.com,669.0,3.0
+1078,Tanvi,63,Hyderabad,user_78@example.com,4821.0,5.0
+1079,Deepak,19,Hyderabad,user_79@example.com,254.0,2.0
+1080,Riya Verma,42,Mumbai,user_80@example.com,3275.0,1.0
+1081,Aarav Sharma,60,Chennai,user_81@example.com,2906.0,2.0
+1082,Kavya,42,Hyderabad,user_82@example.com,624.0,4.0
+1083,Riya Verma,24,Mumbai,user_83@example.com,4231.0,5.0
+1084,Rahul,18,Hyderabad,user_84@example.com,0.0,5.0
+1085,Tanvi,31,,user_85@example.com,1266.0,4.0
+1086,Riya Verma,19,Hyderabad,user_86@example.com,2874.0,5.0
+1087,Kavya,42,Delhi,user_87@example.com,674.0,5.0
+1088,,39,Delhi,user_88@example.com,1815.0,2.0
+1089,Sneha Patel,32,Chennai,user_89@example.com,2591.0,5.0
+1091,,56,,user_91@example.com,4969.0,5.0
+1092,Tanvi,47,Hyderabad,user_92@example.com,4464.0,2.0
+1093,Rahul,59,Chennai,user_93@example.com,1782.0,1.0
+1094,Tanvi,36,,user_94@example.com,1469.0,5.0
+1095,Riya Verma,40,Hyderabad,user_95@example.com,2031.0,5.0
+1096,Aarav Sharma,18,Hyderabad,user_96@example.com,0.0,2.0
+1097,Tanvi,42,Hyderabad,user_97@example.com,3443.0,5.0
+1098,Deepak,22,Chennai,user_98@example.com,2394.0,3.0
+1099,Rahul,43,Hyderabad,user_99@example.com,3606.0,5.0
+1100,Sneha Patel,42,Pune,user_100@example.com,4145.0,4.0

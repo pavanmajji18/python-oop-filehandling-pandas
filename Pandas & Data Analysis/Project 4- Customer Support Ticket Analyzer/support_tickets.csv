@@ -1,0 +1,51 @@
+ticket_id,customer_name,category,priority,status,assigned_agent,resolution_time
+TICK_0001,Customer_1,Course,Medium,In Progress,Vikram,144
+TICK_0002,Customer_2,Refund,Medium,Closed,Vikram,234
+TICK_0003,Customer_3,Login,Low,Open,Ananya,68
+TICK_0004,Customer_4,Refund,Low,Resolved,Pooja,357
+TICK_0005,Customer_5,Refund,Low,Closed,Pooja,238
+TICK_0006,Customer_6,Technical,High,Closed,Suresh,239
+TICK_0007,Customer_7,Login,High,In Progress,Rahul,140
+TICK_0008,Customer_8,Login,High,Resolved,Suresh,144
+TICK_0009,Customer_9,Login,Low,Resolved,Ananya,67
+TICK_0010,Customer_10,Refund,Medium,Open,Ananya,186
+TICK_0011,Customer_11,Course,Low,Resolved,Ananya,232
+TICK_0012,Customer_12,Login,High,Open,Ananya,174
+TICK_0013,Customer_13,Account,Medium,Resolved,Ananya,212
+TICK_0014,Customer_14,Refund,Low,In Progress,Vikram,261
+TICK_0015,Customer_15,Technical,Medium,Resolved,Pooja,338
+TICK_0016,Customer_16,Course,Low,Open,Ananya,217
+TICK_0017,Customer_17,Account,High,Open,Rahul,198
+TICK_0018,Customer_18,Account,Medium,In Progress,Rahul,137
+TICK_0019,Customer_19,Technical,Medium,Resolved,Rahul,269
+TICK_0020,Customer_20,Course,Critical,Resolved,Rahul,308
+TICK_0021,Customer_21,Refund,High,In Progress,Vikram,294
+TICK_0022,Customer_22,Payment,Medium,Resolved,Rahul,339
+TICK_0023,Customer_23,Course,Medium,Resolved,Ananya,112
+TICK_0024,Customer_24,Technical,Medium,Open,Suresh,212
+TICK_0025,Customer_25,Account,Critical,Resolved,Rahul,254
+TICK_0026,Customer_26,Refund,High,Resolved,Vikram,158
+TICK_0027,Customer_27,Course,High,In Progress,Vikram,111
+TICK_0028,Customer_28,Payment,Medium,In Progress,Rahul,215
+TICK_0029,Customer_29,Payment,Medium,Closed,Suresh,138
+TICK_0030,Customer_30,Login,Critical,Open,Rahul,201
+TICK_0031,Customer_31,Login,High,Resolved,Vikram,340
+TICK_0032,Customer_32,Technical,Low,Resolved,Pooja,273
+TICK_0033,Customer_33,Course,Low,Closed,Ananya,162
+TICK_0034,Customer_34,Course,Low,Resolved,Vikram,266
+TICK_0035,Customer_35,Account,Low,Open,Rahul,161
+TICK_0036,Customer_36,Account,Medium,Closed,Ananya,162
+TICK_0037,Customer_37,Account,Medium,Open,Rahul,213
+TICK_0038,Customer_38,Login,Low,Closed,Rahul,322
+TICK_0039,Customer_39,Course,Low,Closed,Pooja,142
+TICK_0040,Customer_40,Course,Low,In Progress,Ananya,53
+TICK_0041,Customer_41,Payment,High,Open,Ananya,352
+TICK_0042,Customer_42,Login,High,Resolved,Pooja,143
+TICK_0043,Customer_43,Refund,High,Resolved,Vikram,281
+TICK_0044,Customer_44,Login,Critical,Open,Rahul,165
+TICK_0045,Customer_45,Refund,High,Resolved,Suresh,312
+TICK_0046,Customer_46,Payment,Critical,Resolved,Rahul,113
+TICK_0047,Customer_47,Technical,Critical,Open,Rahul,277
+TICK_0048,Customer_48,Course,Medium,Closed,Vikram,266
+TICK_0049,Customer_49,Payment,Low,Open,Rahul,158
+TICK_0050,Customer_50,Course,Medium,Closed,Pooja,126

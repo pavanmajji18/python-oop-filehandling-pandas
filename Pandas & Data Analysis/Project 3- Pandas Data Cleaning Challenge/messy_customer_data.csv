@@ -1,0 +1,109 @@
+customer_id,name,age,city,email,purchase_amount,rating
+1001.0,deepak,46,hyd,user_1@example.com,3872,5.0
+1002.0,deepak,36,hyd,user_2@example.com,4526,3.0
+1003.0, Tanvi   ,53,Hyderabad,user_3@example.com,230,
+1004.0,nan,19,Hyderabad,user_4@example.com,2533,4.0
+1005.0,nan,50,nan,user_5@example.com,3485,
+1006.0,nan,61,  mumbai  ,user_6@example.com,574,3.0
+1007.0,deepak,59,Hyderabad,user_7@example.com,2847,
+1008.0,SNEHA patel,64,CHENNAI ,USER_8@EXAMPLE.COM ,4758,4.0
+1009.0,deepak,20, pune ,user_9@example.com,3990,5.0
+1010.0,  aArAv sharma ,twenty,DELHI,user_10@example.com,2535,1.0
+1011.0,rahul  ,31,DELHI,user_11@example.com,2141,1.0
+1012.0,riya VERMA,19,nan,user_12@example.com,,4.0
+1013.0,deepak,24,nan,user_13@example.com,2656,3.0
+1014.0,SNEHA patel,34,nan,user_14@example.com,1685,4.0
+,riya VERMA,23,CHENNAI ,user_15@example.com,3943,
+1016.0,nan,35,DELHI,USER_16@EXAMPLE.COM ,261,2.0
+1017.0,SNEHA patel,53,CHENNAI ,user_17@example.com,3442,
+1018.0,deepak,57, pune ,user_18@example.com,437,5.0
+1019.0, Tanvi   ,43,  mumbai  ,user_19@example.com,4959,4.0
+1020.0,rahul  ,twenty,  mumbai  ,user_20@example.com,2162,5.0
+1021.0,  aArAv sharma ,42,hyd,user_21@example.com,2668,1.0
+1022.0,rahul  ,25,Hyderabad,user_22@example.com,491,3.0
+1023.0,  Kavya ,50,bengaluru,user_23@example.com,3661,2.0
+1024.0,  aArAv sharma ,45,hyd,USER_24@EXAMPLE.COM ,,1.0
+1025.0, Tanvi   ,29,DELHI,user_25@example.com,3204,
+1026.0, Tanvi   ,54,bengaluru,user_26@example.com,2831,
+1027.0,  Kavya ,52,  mumbai  ,user_27@example.com,2790,1.0
+1028.0,nan,43,hyd,user_28@example.com,4593,3.0
+1029.0,  aArAv sharma ,32,hyd,user_29@example.com,1584,3.0
+,deepak,nan,hyd,user_30@example.com,663,5.0
+1031.0, Tanvi   ,21,CHENNAI ,user_31@example.com,1778,3.0
+1032.0,nan,53, pune ,USER_32@EXAMPLE.COM ,1822,3.0
+1033.0,SNEHA patel,45,DELHI,user_33@example.com,2829,5.0
+1034.0,SNEHA patel,23,nan,user_34@example.com,3727,4.0
+1035.0,SNEHA patel,28,Hyderabad,user_35@example.com,1629,4.0
+1036.0,  aArAv sharma ,56,CHENNAI ,user_36@example.com,,1.0
+1037.0,  aArAv sharma ,44,CHENNAI ,user_37@example.com,2775,5.0
+1038.0,  aArAv sharma ,20,hyd,user_38@example.com,809,3.0
+1039.0,  aArAv sharma ,54,  mumbai  ,user_39@example.com,4879,3.0
+1040.0,SNEHA patel,nan,Hyderabad,USER_40@EXAMPLE.COM ,1595,1.0
+1041.0,rahul  ,29,CHENNAI ,user_41@example.com,3557,3.0
+1042.0,  aArAv sharma ,54,  mumbai  ,user_42@example.com,3099,1.0
+1043.0,  Kavya ,19,DELHI,user_43@example.com,954,5.0
+1044.0, Tanvi   ,50,  mumbai  ,user_44@example.com,3574,
+,riya VERMA,61,DELHI,user_45@example.com,1833,4.0
+1046.0,deepak,28,Hyderabad,user_46@example.com,4318,1.0
+1047.0,deepak,55,Hyderabad,user_47@example.com,3031,2.0
+1048.0,SNEHA patel,39,bengaluru,USER_48@EXAMPLE.COM ,,1.0
+1049.0,  aArAv sharma ,23,Hyderabad,user_49@example.com,1894,4.0
+1050.0,rahul  ,twenty,nan,user_50@example.com,1469,3.0
+1051.0,deepak,36,nan,user_51@example.com,3011,4.0
+1052.0,  aArAv sharma ,50,Hyderabad,user_52@example.com,2485,1.0
+1053.0,  Kavya ,45,  mumbai  ,user_53@example.com,4161,2.0
+1054.0,  Kavya ,24,nan,user_54@example.com,723,1.0
+1055.0,rahul  ,19,  mumbai  ,user_55@example.com,3823,5.0
+1056.0,nan,49,bengaluru,USER_56@EXAMPLE.COM ,2156,1.0
+1057.0,  Kavya ,36,Hyderabad,user_57@example.com,2355,3.0
+1058.0,rahul  ,41,CHENNAI ,user_58@example.com,3291,1.0
+1059.0, Tanvi   ,28,  mumbai  ,user_59@example.com,1545,4.0
+,SNEHA patel,twenty,Hyderabad,user_60@example.com,,
+1061.0,  aArAv sharma ,52,  mumbai  ,user_61@example.com,3061,
+1062.0,riya VERMA,19,CHENNAI ,user_62@example.com,3334,5.0
+1063.0,  aArAv sharma ,53,  mumbai  ,user_63@example.com,4593,5.0
+1064.0, Tanvi   ,37,Hyderabad,USER_64@EXAMPLE.COM ,1318,1.0
+1065.0, Tanvi   ,50,Hyderabad,user_65@example.com,4655,3.0
+1066.0,  Kavya ,39,hyd,user_66@example.com,1145,
+1067.0,SNEHA patel,55,CHENNAI ,user_67@example.com,3536,3.0
+1068.0,SNEHA patel,25,bengaluru,user_68@example.com,325,5.0
+1069.0,SNEHA patel,50,nan,user_69@example.com,1059,1.0
+1070.0,nan,nan, pune ,user_70@example.com,915,3.0
+1071.0,rahul  ,52,Hyderabad,user_71@example.com,3220,1.0
+1072.0,rahul  ,45,CHENNAI ,USER_72@EXAMPLE.COM ,,5.0
+1073.0,SNEHA patel,23,bengaluru,user_73@example.com,1160,5.0
+1074.0,  aArAv sharma ,63, pune ,user_74@example.com,706,3.0
+,rahul  ,50,nan,user_75@example.com,290,5.0
+1076.0,nan,49,hyd,user_76@example.com,1284,3.0
+1077.0, Tanvi   ,35,  mumbai  ,user_77@example.com,669,3.0
+1078.0, Tanvi   ,63,Hyderabad,user_78@example.com,4821,
+1079.0,deepak,19,hyd,user_79@example.com,254,2.0
+1080.0,riya VERMA,nan,  mumbai  ,USER_80@EXAMPLE.COM ,3275,1.0
+1081.0,  aArAv sharma ,60,CHENNAI ,user_81@example.com,2906,2.0
+1082.0,  Kavya ,42,Hyderabad,user_82@example.com,624,4.0
+1083.0,riya VERMA,24,  mumbai  ,user_83@example.com,4231,5.0
+1084.0,rahul  ,18,Hyderabad,user_84@example.com,,
+1085.0, Tanvi   ,31,nan,user_85@example.com,1266,4.0
+1086.0,riya VERMA,19,Hyderabad,user_86@example.com,2874,
+1087.0,  Kavya ,42,DELHI,user_87@example.com,674,
+1088.0,nan,39,DELHI,USER_88@EXAMPLE.COM ,1815,2.0
+1089.0,SNEHA patel,32,CHENNAI ,user_89@example.com,2591,5.0
+,  aArAv sharma ,nan, pune ,user_90@example.com,3151,4.0
+1091.0,nan,56,nan,user_91@example.com,4969,5.0
+1092.0, Tanvi   ,47,hyd,user_92@example.com,4464,2.0
+1093.0,rahul  ,59,CHENNAI ,user_93@example.com,1782,1.0
+1094.0, Tanvi   ,36,nan,user_94@example.com,1469,5.0
+1095.0,riya VERMA,40,hyd,user_95@example.com,2031,5.0
+1096.0,  aArAv sharma ,18,hyd,USER_96@EXAMPLE.COM ,,2.0
+1097.0, Tanvi   ,42,Hyderabad,user_97@example.com,3443,5.0
+1098.0,deepak,22,CHENNAI ,user_98@example.com,2394,3.0
+1099.0,rahul  ,43,Hyderabad,user_99@example.com,3606,5.0
+1100.0,SNEHA patel,twenty, pune ,user_100@example.com,4145,4.0
+1001.0,deepak,46,hyd,user_1@example.com,3872,5.0
+1002.0,deepak,36,hyd,user_2@example.com,4526,3.0
+1003.0, Tanvi   ,53,Hyderabad,user_3@example.com,230,
+1004.0,nan,19,Hyderabad,user_4@example.com,2533,4.0
+1005.0,nan,50,nan,user_5@example.com,3485,
+1006.0,nan,61,  mumbai  ,user_6@example.com,574,3.0
+1007.0,deepak,59,Hyderabad,user_7@example.com,2847,
+1008.0,SNEHA patel,64,CHENNAI ,USER_8@EXAMPLE.COM ,4758,4.0
