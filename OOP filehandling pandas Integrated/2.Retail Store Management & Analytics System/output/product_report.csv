@@ -1,0 +1,31 @@
+product_id,product_name,units_sold,total_revenue
+P101,Laptop Pro,3,225000
+P102,Smart Phone,3,135000
+P103,Wireless Headphones,2,24000
+P104,Mechanical Keyboard,3,13500
+P105,Gaming Mouse,1,3200
+P106,4K Monitor,2,56000
+P107,Smartwatch,2,76000
+P108,Bluetooth Speaker,3,16500
+P109,External SSD 1TB,1,8500
+P110,Tablet,2,84000
+P111,Denim Jacket,3,13500
+P112,Crewneck T-Shirt,7,10500
+P113,Slim Fit Chinos,3,8400
+P114,Running Shorts,5,9000
+P115,Formal Shirt,5,11000
+P116,Hoodie,1,3200
+P117,Cargo Pants,2,5000
+P118,Polo T-Shirt,2,10400
+P119,Winter Coat,1,8500
+P120,Tracksuit,2,8400
+P121,Atomic Habits,5,3250
+P122,Deep Work,3,1650
+P123,Clean Code,1,3200
+P124,The Pragmatic Programmer,1,3800
+P125,Sapiens,3,2250
+P126,Psychology of Money,6,2700
+P127,Thinking Fast and Slow,2,1200
+P128,Design Patterns,1,4200
+P129,Zero to One,3,1560
+P130,Rich Dad Poor Dad,8,3200

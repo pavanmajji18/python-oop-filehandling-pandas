@@ -1,0 +1,51 @@
+transaction_id,product_id,product_name,category,quantity,price,customer_city,payment_method,total_amount
+T1001,P101,Laptop Pro,Electronics,1,75000,Bangalore,Credit Card,75000
+T1002,P102,Smart Phone,Electronics,2,45000,Delhi,UPI,90000
+T1003,P112,Crewneck T-Shirt,Clothing,3,1500,Mumbai,Debit Card,4500
+T1004,P121,Atomic Habits,Books,2,650,Bangalore,UPI,1300
+T1005,P103,Wireless Headphones,Electronics,1,12000,Chennai,Credit Card,12000
+T1006,P113,Slim Fit Chinos,Clothing,2,2800,Hyderabad,Cash,5600
+T1007,P126,Psychology of Money,Books,4,450,Pune,UPI,1800
+T1008,P104,Mechanical Keyboard,Electronics,2,4500,Delhi,Net Banking,9000
+T1009,P111,Denim Jacket,Clothing,1,4500,Mumbai,Credit Card,4500
+T1010,P123,Clean Code,Books,1,3200,Bangalore,UPI,3200
+T1011,P106,4K Monitor,Electronics,1,28000,Hyderabad,Credit Card,28000
+T1012,P114,Running Shorts,Clothing,2,1800,Chennai,UPI,3600
+T1013,P125,Sapiens,Books,1,750,Delhi,Debit Card,750
+T1014,P107,Smartwatch,Electronics,1,38000,Bangalore,Credit Card,38000
+T1015,P115,Formal Shirt,Clothing,3,2200,Pune,Cash,6600
+T1016,P122,Deep Work,Books,2,550,Mumbai,UPI,1100
+T1017,P105,Gaming Mouse,Electronics,1,3200,Delhi,UPI,3200
+T1018,P118,Polo T-Shirt,Clothing,1,5200,Bangalore,Credit Card,5200
+T1019,P124,The Pragmatic Programmer,Books,1,3800,Hyderabad,Net Banking,3800
+T1020,P108,Bluetooth Speaker,Electronics,2,5500,Chennai,UPI,11000
+T1021,P116,Hoodie,Clothing,1,3200,Pune,Cash,3200
+T1022,P127,Thinking Fast and Slow,Books,2,600,Delhi,Debit Card,1200
+T1023,P109,External SSD 1TB,Electronics,1,8500,Mumbai,Credit Card,8500
+T1024,P117,Cargo Pants,Clothing,2,2500,Bangalore,UPI,5000
+T1025,P130,Rich Dad Poor Dad,Books,5,400,Chennai,Cash,2000
+T1026,P110,Tablet,Electronics,1,42000,Hyderabad,Credit Card,42000
+T1027,P119,Winter Coat,Clothing,1,8500,Delhi,Net Banking,8500
+T1028,P128,Design Patterns,Books,1,4200,Bangalore,UPI,4200
+T1029,P101,Laptop Pro,Electronics,1,75000,Mumbai,Credit Card,75000
+T1030,P120,Tracksuit,Clothing,2,4200,Pune,Debit Card,8400
+T1031,P129,Zero to One,Books,3,520,Hyderabad,UPI,1560
+T1032,P102,Smart Phone,Electronics,1,45000,Bangalore,Credit Card,45000
+T1033,P112,Crewneck T-Shirt,Clothing,4,1500,Delhi,UPI,6000
+T1034,P103,Wireless Headphones,Electronics,1,12000,Pune,Net Banking,12000
+T1035,P121,Atomic Habits,Books,3,650,Mumbai,UPI,1950
+T1036,P113,Slim Fit Chinos,Clothing,1,2800,Chennai,Cash,2800
+T1037,P106,4K Monitor,Electronics,1,28000,Bangalore,Credit Card,28000
+T1038,P126,Psychology of Money,Books,2,450,Delhi,Debit Card,900
+T1039,P115,Formal Shirt,Clothing,2,2200,Hyderabad,UPI,4400
+T1040,P107,Smartwatch,Electronics,1,38000,Mumbai,Credit Card,38000
+T1041,P122,Deep Work,Books,1,550,Chennai,Cash,550
+T1042,P104,Mechanical Keyboard,Electronics,1,4500,Pune,UPI,4500
+T1043,P114,Running Shorts,Clothing,3,1800,Bangalore,Debit Card,5400
+T1044,P125,Sapiens,Books,2,750,Hyderabad,UPI,1500
+T1045,P108,Bluetooth Speaker,Electronics,1,5500,Delhi,Credit Card,5500
+T1046,P111,Denim Jacket,Clothing,2,4500,Mumbai,Net Banking,9000
+T1047,P130,Rich Dad Poor Dad,Books,3,400,Bangalore,UPI,1200
+T1048,P110,Tablet,Electronics,1,42000,Delhi,Credit Card,42000
+T1049,P118,Polo T-Shirt,Clothing,1,5200,Hyderabad,UPI,5200
+T1050,P101,Laptop Pro,Electronics,1,75000,Pune,Credit Card,75000
